@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Welcome to my Github 
-[:pushpin: My portfolio site](https://www.zipinglin.com/)
-[:pushpin: My LinkedIn](https://www.linkedin.com/in/zipinglin/)
+
+[:pushpin: Personal page](https://www.zipinglin.com/)
+
+[:pushpin: LinkedIn](https://www.linkedin.com/in/zipinglin/)
 <!--
 **lziping/lziping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
